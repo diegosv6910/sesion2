@@ -1,0 +1,56 @@
+.header-container{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: sans-serif;
+}
+
+.header-container > *{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.navbar-container {
+    width: 70%;
+    text-align: center;
+    height: 45px;
+}
+
+.navbar-item{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.navbar-item a{
+    text-decoration: none;
+    color: #025157;
+}
+
+.div-acciones *{
+    display: inline;
+    text-align: right;
+    font-size: 14px;
+}
+
+.div-acciones a{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #67b54b
+}
+
+.div-acciones button{
+    color: white;
+    background-color: #67b54b;
+    padding: 12px 14px 12px 14px;
+    border: none;
+    border-radius: 5px;
+}
+
+.footer-container{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline;
+}
